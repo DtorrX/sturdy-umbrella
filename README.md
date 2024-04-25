@@ -32,7 +32,7 @@ Once installed, simply browse as you normally would. When you find text or an im
 Press Ctrl+5 to save the selection.
 To view or download the saved entries, click on the extension icon and then click the "Download Highlights" button in the popup.
 
-##Contributing
+## Contributing
 
 Contributions to the Highlight and Image Saver Extension are welcome! If you have suggestions for improvements or encounter any issues, please post them as issues in this repository, or submit a pull request if you've developed a fix or enhancement.
 
